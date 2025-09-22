@@ -33,14 +33,6 @@ This project demonstrates **responsive layout design, semantic HTML structuring,
 ### Home Page
 ![Home Page](screenshots/home.png)
 
-### Sidebar & Navigation
-![Sidebar](screenshots/sidebar.png)
-
-### Video Thumbnails
-![Thumbnails](screenshots/thumbnails.png)
-
-*(Optional: Add GIFs showing hover effects or scrolling)*
-
 ---
 
 ## Folder Structure
